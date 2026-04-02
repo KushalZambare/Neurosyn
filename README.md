@@ -17,7 +17,7 @@ This project implements a complete end-to-end deep learning system that combines
 
 ## 🚀 Getting Started
 
-### 1. Install Dependencies
+### 1. Install Dependencies for project
 ```bash
 pip install -r requirements.txt
 ```
