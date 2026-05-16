@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Train the Model
-To start training on the radiography dataset:
+To start training on the Radiography dataset:
 ```bash
 python main.py train --epochs 5 --batch_size 8
 ```
