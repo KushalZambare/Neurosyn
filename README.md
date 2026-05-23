@@ -53,7 +53,7 @@ data/xray_validation/
 This creates `xray_classifier.h5` in the project root, which is used by `utils/validator.py`.
 
 ### 5. Launch the Web UI
-Run the Streamlit app to interact with the model:
+Run the Streamlit app UI to interact with the model:
 ```bash
 streamlit run app/app.py
 ```
