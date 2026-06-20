@@ -10,7 +10,7 @@ This project implements a complete end-to-end deep learning system that combines
 
 ## 📁 Project Structure
 - `models/`: Neural network architectures (ViT, Metadata Encoder, Fusion Model).
-- `training/`: Dataset loading and training/evaluation logic.
+- `training/`: Dataset loading and Training/Evaluation logic.
 - `utils/`: Preprocessing and data pipeline utilities.
 - `app/`: Streamlit web application.
 - `main.py`: CLI entry point for training and evaluation.
