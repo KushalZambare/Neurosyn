@@ -59,7 +59,7 @@ streamlit run app/app.py
 ```
 
 ## 🛠️ Requirements
-- Python 3.8+
+- Python
 - PyTorch
 - Streamlit
 - Pandas & openpyxl 
