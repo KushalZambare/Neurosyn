@@ -30,7 +30,7 @@ python main.py train --epochs 5 --batch_size 8
 *Note: Use `--limit_batches 10` for a quick test run.*
 
 ### 3. Evaluate the Model
-To check performance on the test set:
+To check performance on the Test set:
 ```bash
 python main.py evaluate
 ```
