@@ -50,7 +50,7 @@ data/xray_validation/
     scan1.png
     scan2.jpg
 ```
-This creates `xray_classifier.h5` in the project root, which is used by `utils/validator.py`.
+This creates `xray_classifier.h5` in the Project root, which is used by `utils/validator.py`.
 
 ### 5. Launch the Web UI
 Run the Streamlit app UI to interact with the model:
