@@ -1,6 +1,6 @@
 # NeuroSyn
 
-This project implements a complete end-to-end deep learning system that combines X-ray Image analysis with patient metadata (age, gender) to predict disease classes.
+This project implements a complete end-to-end deep learning system that combines X-ray Image analysis with Patient metadata (age, gender) to predict disease classes.
 
 ## 🎯 Features
 - **Manual ViT Implementation**: A Vision Transformer built from scratch using PyTorch `nn.TransformerEncoder`.
